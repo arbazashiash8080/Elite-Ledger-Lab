@@ -260,7 +260,7 @@ export const Home = () => {
           <Link to="/contact" className="w-full py-4 bg-emerald-600 text-white rounded-2xl font-bold text-sm shadow-lg shadow-emerald-600/20 hover:bg-emerald-700 transition-all active:scale-95 flex items-center justify-center gap-2">
             <Phone size={16} /> Contact Now
           </Link>
-          <a href="mailto:hello@eliteledger.works" className="w-full py-4 bg-slate-100 text-slate-800 rounded-2xl font-bold text-sm hover:bg-slate-200 transition-all flex items-center justify-center gap-2">
+          <a href="mailto:priya@eliteledger.works" className="w-full py-4 bg-slate-100 text-slate-800 rounded-2xl font-bold text-sm hover:bg-slate-200 transition-all flex items-center justify-center gap-2">
             <Mail size={16} /> Email Us
           </a>
         </div>
@@ -270,19 +270,19 @@ export const Home = () => {
             <div className="w-6 h-6 rounded-lg bg-slate-50 flex items-center justify-center text-emerald-600">
               <Mail size={12} />
             </div>
-            <span className="font-bold text-slate-500">hello@eliteledger.works</span>
+            <span className="font-bold text-slate-500">priya@eliteledger.works</span>
           </div>
           <div className="flex items-center gap-2 text-[10px]">
             <div className="w-6 h-6 rounded-lg bg-slate-50 flex items-center justify-center text-emerald-600">
               <Phone size={12} />
             </div>
-            <span className="font-bold text-slate-500">+1 (888) LEDGER-01</span>
+            <span className="font-bold text-slate-500">+91 8580436591</span>
           </div>
           <div className="flex items-center gap-2 text-[10px]">
             <div className="w-6 h-6 rounded-lg bg-slate-50 flex items-center justify-center text-emerald-600">
               <MapPin size={12} />
             </div>
-            <span className="font-bold text-slate-500">FinTech Plaza, NY</span>
+            <span className="font-bold text-slate-500">TDI Business Center, Sector 118, Mohali, Punjab</span>
           </div>
         </div>
       </motion.div>
