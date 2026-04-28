@@ -33,7 +33,7 @@ export const Contact = () => {
                 </div>
                 <div>
                   <p className="text-[10px] font-bold uppercase tracking-widest text-emerald-100">Email Us</p>
-                  <p className="font-extrabold text-lg">hello@eliteledger.works</p>
+                  <p className="font-extrabold text-lg">priya@eliteledger.works</p>
                 </div>
               </div>
               <div className="flex items-center gap-4">
@@ -42,7 +42,7 @@ export const Contact = () => {
                 </div>
                 <div>
                   <p className="text-[10px] font-bold uppercase tracking-widest text-emerald-100">Call Us</p>
-                  <p className="font-extrabold text-lg">+1 (888) LEDGER-01</p>
+                  <p className="font-extrabold text-lg">+91 8580436591</p>
                 </div>
               </div>
               <div className="flex items-center gap-4">
@@ -51,7 +51,7 @@ export const Contact = () => {
                 </div>
                 <div>
                   <p className="text-[10px] font-bold uppercase tracking-widest text-emerald-100">Our Hub</p>
-                  <p className="font-extrabold text-lg">FinTech Plaza, NY 10012</p>
+                  <p className="font-extrabold text-lg">TDI Business Center, Sector 118, Mohali Punjab</p>
                 </div>
               </div>
             </div>
@@ -86,18 +86,18 @@ export const Contact = () => {
             <div className="grid md:grid-cols-2 gap-6">
               <div className="space-y-2">
                 <label className="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Full Name</label>
-                <input type="text" className="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-emerald-500 transition-colors" placeholder="John Doe" />
+                <input type="text" className="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-emerald-500 transition-colors" placeholder="Priya Sharma" />
               </div>
               <div className="space-y-2">
                 <label className="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Work Email</label>
-                <input type="email" className="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-emerald-500 transition-colors" placeholder="john@company.com" />
+                <input type="email" className="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-emerald-500 transition-colors" placeholder="priya@company.com" />
               </div>
             </div>
             
             <div className="space-y-2">
               <label className="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Subject</label>
               <select className="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-3 text-slate-800 focus:outline-none focus:border-emerald-500 transition-colors appearance-none font-medium">
-                <option>New Partnership Inquiry</option>
+                <option>Book Keeping Inquiry</option>
                 <option>Pricing Inquiry</option>
                 <option>Technical Support</option>
                 <option>Other</option>
